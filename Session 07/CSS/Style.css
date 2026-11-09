@@ -1,0 +1,44 @@
+.demo{
+     color: blue;
+    color: #f0ff00;
+    COLOR: rgba(red, green, blue, alpha);
+color: rgb(255, 0, 0);
+
+ 
+/* height: fit-content;   */
+height: 3000px;
+ background-image:url(../image/image1\ \(1\).webp); 
+ background-color: greenyellow);
+ background-repeat: no-repeat;
+/* background-size: cover;
+background-position: top;
+background-attachment: fixed;    */
+/* direction: rtl; */
+/* letter-spacing: 20px; */
+/* word-spacing: -5px; */
+/* line-height: 50px; */
+/* text-align: center; */
+/* text-transform: capitalize ; */
+/* text-decoration: line-through underline ; */
+;
+}
+
+
+
+
+.span{
+    color: red;
+    font-size: 20px;
+
+    /* font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 2px 5px gray; */
+
+
+}
+
+
